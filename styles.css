@@ -128,7 +128,20 @@
     border-radius: 5px;
     font-size: 30px;
     font-weight: bold;
-    margin-top: -80px;
+    margin-top: -205px;
+}
+
+.tahoblast {
+    margin-top: 30px;
+}
+
+.dietsolver {
+    width: 50%;
+    margin-top: 40px;
+}
+
+.meanit {
+    width: 70%;
 }
 
 .footer {
@@ -172,4 +185,8 @@
     margin-left: 30px;
     margin-right: 50px;
     line-height: 1.2; 
+}
+
+.link {
+    color: #f8be30;
 }
